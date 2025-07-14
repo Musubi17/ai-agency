@@ -22,7 +22,7 @@ const highlights = [
   {
     icon: Shield,
     title: "Bulletproof Guarantee",
-    description: "AI Engineer who speaks both code and human"
+    description: "You only pay if the project delivers real value. No upfront fees. Pay only when you’re fully satisfied with the results."
   }
 ];
 
